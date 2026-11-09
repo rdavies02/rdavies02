@@ -1,5 +1,5 @@
 <h1>Hello I am Rhys Davies</h1> 
-I am an Automation Systems Engineer at Crown Equipment Corporation in New Bremen, Ohio. <br />
+I am an Automation Systems Engineer II at Crown Equipment Corporation in New Bremen, Ohio. <br />
 I have a Bachelor's degree in Electrical Engineering with a minor in computer science from Ohio Northern University <br />
 And I am the former programming team leader for the ONU Polar Robotics Robotic football organization <br />
 
